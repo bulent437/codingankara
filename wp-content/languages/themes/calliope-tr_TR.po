@@ -1,0 +1,120 @@
+# Translation of Themes - Calliope in Turkish
+# This file is distributed under the same license as the Themes - Calliope package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-22 10:00:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Calliope\n"
+
+#. Description of the theme
+msgid "Calliope is a beautiful, very customizable, multipurpose theme that you can use to create amazing websites through drag and drop. It comes with a pre-designed home page, 5 header designs and over 35 ready-to-use content blocks that you can easily customize. You can also design your own custom blocks by combining more than 25 drag and drop components. Calliope offers lots of customization options (video background, slideshow background, header content types, etc) to help you create a website that stands out in no time. It is also designed with responsiveness, to work on mobile devices right out of the box. Calliope is the only theme you will ever need! CHECK OUT THE DEMOS: https://colibriwp.com/go/calliope-demos"
+msgstr "Calliope, sürükleyip bırakarak inanılmaz bir web sitesi oluşturmak için kullanabileceğiniz güzel, son derece özelleştirilebilir, çok amaçlı bir temadır. Önceden tasarlanmış bir ana sayfa, 5 üst kısım tasarımı ve kolayca özelleştirebileceğiniz 35'ten fazla kullanıma hazır içerik bloğu ile birlikte gelir. Ayrıca 25'ten fazla sürükle ve bırak bileşenini birleştirerek kendi özel bloklarınızı tasarlayabilirsiniz. Calliope, kısa sürede öne çıkan bir web sitesi oluşturmanıza yardımcı olacak birçok özelleştirme seçeneğine (video arka planı, slayt gösterisi arka planı, üst kısım içeriği türleri vb.) sahiptir. Ayrıca duyarlı tasarıma sahiptir, doğrudan mobil cihazlarda çalışır. Calliope, ihtiyacınız olacak tek tema! Demolara göz atın: https://colibriwp.com/go/calliope-demos"
+
+#. Theme Name of the theme
+msgid "Calliope"
+msgstr "Calliope"
+
+#: template-parts/main/404.php:22
+msgid "Go to the homepage!"
+msgstr "Ana sayfaya gidin!"
+
+#: admin/admin-notice.php:70
+msgid "This action will also install the Colibri Page Builder plugin."
+msgstr "Bu eylem aynı zamanda Colibri Page Builder eklentisini de yükleyecektir."
+
+#: admin/admin-notice.php:58
+msgid "Maybe Later"
+msgstr "Belki sonra"
+
+#: admin/admin-notice.php:54
+msgid "Install the Calliope homepage"
+msgstr "Calliope ana sayfasını kur"
+
+#: admin/admin-notice.php:49
+msgid "Would you like to install the pre-designed Calliope homepage?"
+msgstr "Önceden tasarlanmış Calliope ana sayfasını kurmak ister misiniz?"
+
+#: functions.php:60
+msgid "%s is easy to learn and master, but you can always check out our documentation to learn about some features you might have missed."
+msgstr "%s, öğrenmesi ve ustalaşması kolay bir temadır, fakat her zaman belgelerimizi inceleyerek özellikler arasından bir şey kaçırıp kaçırmadığınıza bakabilirsiniz."
+
+#: functions.php:51
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "%1$s eklentisi, sürükle ve bırak işlevselliği ve diğer bir çok beceriyi %2$s temasına ekler."
+
+#: functions.php:49
+msgid "%s Settings"
+msgstr "%s Ayarları"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "Önceki"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+#: template-parts/layout-wrapper-content/navigation-container-3.php:11
+#: template-parts/layout-wrapper-content/navigation-container-3.php:37
+msgid "Back"
+msgstr "Geri"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+#: template-parts/layout-wrapper-content/navigation-container-3.php:10
+#: template-parts/layout-wrapper-content/navigation-container-3.php:36
+msgid "Next"
+msgstr "Sonraki"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "next post"
+msgstr "sonraki yazı"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "Önceki yazı:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "Sonraki yazı:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "previous post"
+msgstr "önceki yazı"
+
+#: template-parts/main/404.php:13
+msgid "Sorry, page not found!"
+msgstr "Üzgünüz, sayfa bulunamadı!"
+
+#: template-parts/main/post.php:33
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} Yanıt"
+
+#: template-parts/main/post.php:32
+msgid "One response"
+msgstr "Bir yanıt"
+
+#: template-parts/main/post.php:31
+msgid "No responses yet"
+msgstr "Henüz yanıt yok"
+
+#: template-parts/main/archive_item_template.php:72
+#: template-parts/main/search_item_template.php:57
+msgid "read more"
+msgstr "daha fazla oku"
+
+#: template-parts/layout-wrapper-content/categories-container-1.php:20
+#: template-parts/main/archive_item_template.php:44
+#: template-parts/main/search_item_template.php:29
+msgid "-"
+msgstr "-"
+
+#. Author URI of the theme
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+msgid "Extend Themes"
+msgstr "Extend Themes"
